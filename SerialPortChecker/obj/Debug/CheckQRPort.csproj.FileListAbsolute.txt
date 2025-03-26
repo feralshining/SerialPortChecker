@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\CheckQRPort.csprojAssemblyReference.cache
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\CheckQRPort.Form1.resources
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\CheckQRPort.csproj.GenerateResource.cache
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\CheckQRPort.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\bin\Debug\SerialPortChecker.exe.config
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\bin\Debug\SerialPortChecker.exe
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\bin\Debug\SerialPortChecker.pdb
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\SerialPortChecker.Properties.Resources.resources
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\SerialPortChecker.exe
+C:\Users\root\source\repos\CheckQRPort\CheckQRPort\obj\Debug\SerialPortChecker.pdb
